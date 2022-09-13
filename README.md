@@ -1,2 +1,2 @@
 # compilers
-My understanding of compilers, and using them
+My understanding of text, computing of text, compilers, AI tools
