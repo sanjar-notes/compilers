@@ -1,2 +1,2 @@
-# text_and_computation
-My understanding of text, computing of text, compilers, AI tools
+# compilers
+My understanding of compilers, compilation, their internals and using them
